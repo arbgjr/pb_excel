@@ -1,6 +1,5 @@
-out/*
-src/*.pbl
-src/*.exe
-src/*.log
-src/*.pbc
-src/*.pbd
+*.pbl
+*.exe
+*.log
+*.pbc
+*.pbd
